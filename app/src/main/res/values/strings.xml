@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Floating View</string>
+    <string name="show_floating_view">Show Floating View</string>
+    <string name="hide_floating_view">Hide Floating View</string>
+</resources>

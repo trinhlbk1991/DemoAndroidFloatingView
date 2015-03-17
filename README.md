@@ -9,3 +9,6 @@ This demo will allow you to show/hide and drag around the "floating view".
 Floating View is the view that was drawn on top of other applications like Facebook headchats.
 
 Please go to http://icetea09.com/blog/2015/03/16/android-floating-view-like-facebook-chatheads/ for the details of this tutorial.
+
+You can also watch the demo video here:
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Dfv0tsdyJmE" frameborder="0" allowfullscreen></iframe>
